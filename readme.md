@@ -1,4 +1,5 @@
 # Test
+- Run `npm i moize` 
 - Run `tsc` 
 - Run `node index.js`
 
